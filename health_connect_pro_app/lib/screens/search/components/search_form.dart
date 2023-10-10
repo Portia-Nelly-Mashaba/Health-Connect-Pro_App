@@ -97,12 +97,12 @@ class SearchForm extends StatelessWidget {
 }
 
 var currencies = [
-  "Food",
-  "Transport",
-  "Personal",
-  "Shopping",
-  "Medical",
-  "Rent",
-  "Movie",
-  "Salary"
+  "Johannessburg",
+  "Midrand",
+  "Durban",
+  "Kempton Park",
+  "Sandton",
+  "Cape Town",
+  "Pretoria",
+  "Witbank"
 ];

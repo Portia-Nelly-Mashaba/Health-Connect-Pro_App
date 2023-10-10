@@ -8,35 +8,35 @@ class AvailableDoctor {
 
 List<AvailableDoctor> demoAvailableDoctors = [
   AvailableDoctor(
-    name: "Dr. Serena Gome",
+    name: "Dr. Sarah James",
     sector: "Medicine Specialist",
     experience: 8,
     patients: '1.08K',
     image: "assets/images/Serena_Gome.png",
   ),
   AvailableDoctor(
-    name: "Dr. Asma Khan",
+    name: "Dr. Anarth Mohammed",
     sector: "Medicine Specialist",
     experience: 5,
     patients: '2.7K',
     image: "assets/images/Asma_Khan.png",
   ),
   AvailableDoctor(
-    name: "Dr. Kiran Shakia",
+    name: "Dr. Cindy Neil",
     sector: "Medicine Specialist",
     experience: 5,
     patients: '2.7K',
     image: "assets/images/Kiran_Shakia.png",
   ),
   AvailableDoctor(
-    name: "Dr. Masuda Khan",
+    name: "Dr. Michel Narcerdeen",
     sector: "Medicine Specialist",
     experience: 5,
     patients: '2.7K',
     image: "assets/images/Masuda_Khan.png",
   ),
   AvailableDoctor(
-    name: "Dr. Johir Raihan",
+    name: "Dr. John Moore",
     sector: "Medicine Specialist",
     experience: 5,
     patients: '2.7K',

@@ -30,7 +30,7 @@ class DoctorDetailsScreen extends StatelessWidget {
                 "Medicine & Heart Spelist",
                 style: Theme.of(context).textTheme.subtitle2,
               ),
-              Text("Good Health Clinic, MBBS, FCPS"),
+              Text("Good Health Clinic, Wits University"),
               Padding(
                 padding:
                     const EdgeInsets.symmetric(vertical: defaultPadding / 4),

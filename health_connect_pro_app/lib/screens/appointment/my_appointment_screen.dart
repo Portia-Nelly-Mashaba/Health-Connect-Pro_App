@@ -51,7 +51,7 @@ class MyAppointmentScreen extends StatelessWidget {
                           ),
                         ),
                         Expanded(
-                          child: buildAppointmentInfo("Place", "City Clinic"),
+                          child: buildAppointmentInfo("Place", "Edenvale"),
                         ),
                         Expanded(
                           child: ElevatedButton(

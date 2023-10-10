@@ -1,5 +1,5 @@
 import 'package:doctor/constants.dart';
-import 'package:flutter/cupertino.dart';
+//import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 import 'components/setting_item_caed.dart';

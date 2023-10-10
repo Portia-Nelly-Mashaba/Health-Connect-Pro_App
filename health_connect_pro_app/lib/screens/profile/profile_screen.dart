@@ -43,7 +43,7 @@ class ProfileScreen extends StatelessWidget {
               child: Column(
                 children: [
                   TextFormField(
-                    initialValue: "Anwar Abir",
+                    initialValue: "James Moore",
                     decoration: inputDecoration.copyWith(hintText: "Name"),
                   ),
                   Padding(
@@ -55,7 +55,7 @@ class ProfileScreen extends StatelessWidget {
                     ),
                   ),
                   TextFormField(
-                    initialValue: "+88019389898",
+                    initialValue: "0815151234",
                     decoration:
                         inputDecoration.copyWith(hintText: "Phone Number"),
                   ),
@@ -63,7 +63,7 @@ class ProfileScreen extends StatelessWidget {
                     padding:
                         const EdgeInsets.symmetric(vertical: defaultPadding),
                     child: TextFormField(
-                      initialValue: "Rampura, Banasree",
+                      initialValue: "Edenvale, Johannesburg",
                       decoration: inputDecoration.copyWith(hintText: "Address"),
                     ),
                   ),

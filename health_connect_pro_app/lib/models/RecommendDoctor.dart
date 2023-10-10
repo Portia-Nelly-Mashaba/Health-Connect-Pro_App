@@ -11,7 +11,7 @@ class RecommendedDoctor {
 
 const List<RecommendedDoctor> demo_recommended_doctor = [
   RecommendedDoctor(
-    name: "Dr. Salina Zaman",
+    name: "Dr. Sarah James",
     speciality: "Medicine & Heart Spelist",
     institute: "Good Health Clinic",
     image: "assets/images/Salina_Zaman.png",
@@ -23,19 +23,19 @@ const List<RecommendedDoctor> demo_recommended_doctor = [
     image: "assets/images/Serena_Gome.png",
   ),
   RecommendedDoctor(
-    name: "Dr. Salina Zaman",
+    name: "Dr. Sarah James",
     speciality: "Medicine & Heart Spelist",
     institute: "Good Health Clinic",
     image: "assets/images/Salina_Zaman.png",
   ),
   RecommendedDoctor(
-    name: "Dr. Asma Khan",
+    name: "Dr. Michel Narcerdeen",
     speciality: "Medicine & Heart Spelist",
     institute: "Good Health Clinic",
     image: "assets/images/Asma_Khan.png",
   ),
   RecommendedDoctor(
-    name: "Dr. Salina Zaman",
+    name: "Dr. Cindy Neil",
     speciality: "Medicine & Heart Spelist",
     institute: "Good Health Clinic",
     image: "assets/images/Salina_Zaman.png",

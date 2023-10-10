@@ -20,7 +20,14 @@ class SplashScreen extends StatelessWidget {
               child: Column(
                 children: [
                   Spacer(),
-                  SvgPicture.asset("assets/icons/gerda_logo.svg"),
+                  //SvgPicture.asset("assets/icons/gerda_logo.svg"),
+                  const Text(
+                    'Health Connect\n Pro App',
+                    style: TextStyle(
+                      fontSize: 20,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
                   Spacer(),
                   ElevatedButton(
                     onPressed: () => Navigator.pushReplacement(

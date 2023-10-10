@@ -24,7 +24,7 @@ class SearchResultScreen extends StatelessWidget {
               "Selected area",
               style: Theme.of(context).textTheme.caption,
             ),
-            Text("Boston"),
+            Text("Johannesburg"),
           ],
         ),
         actions: [
